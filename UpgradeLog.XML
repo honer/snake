@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="snake">
+</Property><Property Name="方案檔" Value="D:\@_VB\自己寫的\貪食蛇\snake\snake.sln">
+</Property><Property Name="使用者選項檔" Value="D:\@_VB\自己寫的\貪食蛇\snake\snake.suo">
+</Property><Property Name="Date" Value="2009年7月31日">
+</Property><Property Name="Time" Value="上午 06:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="snake.sln" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake.sln">
+</Event><Event ErrorLevel="0" Project="" Source="snake.suo" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake.suo">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\snake.vbproj" Description="專案檔已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\snake.vbproj">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\snake.vbproj.user" Description="專案使用者檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\snake.vbproj.user">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\Form1.vb" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\Form1.vb">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\Form1.Designer.vb" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\My Project\AssemblyInfo.vb" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\My Project\Application.Designer.vb" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\My Project\Resources.Designer.vb" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\My Project\Settings.Designer.vb" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\My Project\Application.myapp" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\My Project\Settings.settings" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\Form1.resx" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\Form1.resx">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\My Project\Resources.resx" Description="檔案已成功備份為 D:\@_VB\自己寫的\貪食蛇\snake\Backup\snake\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\snake.vbproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="snake" Source="snake\snake.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="snake.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="snake.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="snake" Source="snake\snake.vbproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

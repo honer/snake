@@ -1,0 +1,10 @@
+D:\@_VB\自己寫的\貪食蛇\snake\snake\obj\Release\snake.exe
+D:\@_VB\自己寫的\貪食蛇\snake\snake\obj\Release\snake.xml
+D:\@_VB\自己寫的\貪食蛇\snake\snake\obj\Release\snake.pdb
+D:\@_VB\自己寫的\貪食蛇\snake\snake\bin\Release\snake.exe
+D:\@_VB\自己寫的\貪食蛇\snake\snake\bin\Release\snake.pdb
+D:\@_VB\自己寫的\貪食蛇\snake\snake\bin\Release\snake.xml
+D:\@_VB\自己寫的\貪食蛇\snake\snake\obj\Release\ResolveAssemblyReference.cache
+D:\@_VB\自己寫的\貪食蛇\snake\snake\obj\Release\snake.Form1.resources
+D:\@_VB\自己寫的\貪食蛇\snake\snake\obj\Release\snake.Resources.resources
+D:\@_VB\自己寫的\貪食蛇\snake\snake\obj\Release\snake.vbproj.GenerateResource.Cache
