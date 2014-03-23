@@ -9,6 +9,6 @@ Improve the tranditional game way, add the game way that the snake head can fly 
 
 <img src="http://ten01.net/wp-content/uploads/2013/04/1333478285-2644805594.jpg" />
 
-License
+**License
 
 MIT-LICENSE
