@@ -12,5 +12,5 @@ Improve the tranditional game way, add the game way that the snake head can fly 
 License
 -------
 
-Bootstrappers is Copyright © 2009-2014 honer. It is free software, and may be redistributed under the terms specified in the LICENSE file.
+Snake is Copyright © 2010-2014 honer. It is free software, and may be redistributed under the terms specified in the LICENSE file.
 
